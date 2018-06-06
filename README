@@ -1,0 +1,25 @@
+These are log results from a hyperparameter scan.
+The scan files have names like Output_{hl}_{ne}_{lr}_{dp}_{ws}_log.txt
+These are the values of each parameter:
+
+    [Hidden Layers] - hl=(3 4 5 6 7)
+    [Neurons per Hidden Layer] - ne=(64 128 256 512 1024)
+    [Learning Rate] - lr=(0.0001 0.0005 0.001)
+    [Dropout Probability] - dp=(0.2 0.3 0.4 0.5)
+    [Window Size] - ws=(11 21 31 41 51)
+
+Each log file will end with lines like this:
+
+    Finished Training
+    Performing Analysis
+    test loss: (C) 0.5127; test accuracy: (C) 0.7974
+
+The "main" hyperparameter point we use is Output_4_256_0.001_0.5_51.
+We need to know what happens to loss and accuracy when we alter one hyperparameter at a time.
+So for example, make a plot of {hl} on the x-axis, and plot loss and accuracy for Output_{hl}_256_0.001_0.5_51.
+
+Also make a 2D plot (grid?) with each pair of two hyperparameters.
+E.g. have {hl} on the x-axis, {ne} on the y-axis, and make plots of Output_{hl}_{ne}_0.001_0.5_51.
+
+I have a scrap of code in Hyperparameter.py, but I don't know if it's actually useful.
+You should end up with 15 plots.
