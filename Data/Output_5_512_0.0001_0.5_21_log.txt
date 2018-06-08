@@ -1,0 +1,1352 @@
+-------------------------------
+Loading Files
+Split (files per class): 67 train, 8 test
+-------------------------------
+Training
+-------------------------------
+epoch 1, batch 20
+train loss:	(C) 0.6938	train accuracy:	(C) 0.4857	
+test loss:	(C) 0.6934	test accuracy:	(C) 0.4960	
+-------------------------------
+epoch 1, batch 40
+train loss:	(C) 0.6929	train accuracy:	(C) 0.5130	
+test loss:	(C) 0.6932	test accuracy:	(C) 0.4955	
+-------------------------------
+epoch 1, batch 60
+train loss:	(C) 0.6930	train accuracy:	(C) 0.5063	
+test loss:	(C) 0.6929	test accuracy:	(C) 0.5062	
+-------------------------------
+epoch 1, batch 80
+train loss:	(C) 0.6924	train accuracy:	(C) 0.5265	
+test loss:	(C) 0.6932	test accuracy:	(C) 0.4967	
+-------------------------------
+epoch 1, batch 100
+train loss:	(C) 0.6928	train accuracy:	(C) 0.5128	
+test loss:	(C) 0.6926	test accuracy:	(C) 0.5152	
+-------------------------------
+epoch 1, batch 120
+train loss:	(C) 0.6921	train accuracy:	(C) 0.5227	
+test loss:	(C) 0.6926	test accuracy:	(C) 0.5200	
+-------------------------------
+epoch 1, batch 140
+train loss:	(C) 0.6914	train accuracy:	(C) 0.5517	
+test loss:	(C) 0.6918	test accuracy:	(C) 0.5320	
+-------------------------------
+epoch 1, batch 160
+train loss:	(C) 0.6906	train accuracy:	(C) 0.5642	
+test loss:	(C) 0.6914	test accuracy:	(C) 0.5417	
+-------------------------------
+epoch 1, batch 180
+train loss:	(C) 0.6897	train accuracy:	(C) 0.5665	
+test loss:	(C) 0.6913	test accuracy:	(C) 0.5385	
+-------------------------------
+epoch 1, batch 200
+train loss:	(C) 0.6890	train accuracy:	(C) 0.5550	
+test loss:	(C) 0.6910	test accuracy:	(C) 0.5440	
+-------------------------------
+epoch 1, batch 220
+train loss:	(C) 0.6912	train accuracy:	(C) 0.5268	
+test loss:	(C) 0.6897	test accuracy:	(C) 0.5520	
+-------------------------------
+epoch 1, batch 240
+train loss:	(C) 0.6898	train accuracy:	(C) 0.5585	
+test loss:	(C) 0.6897	test accuracy:	(C) 0.5547	
+-------------------------------
+epoch 1, batch 260
+train loss:	(C) 0.6913	train accuracy:	(C) 0.5310	
+test loss:	(C) 0.6887	test accuracy:	(C) 0.5540	
+-------------------------------
+epoch 1, batch 280
+train loss:	(C) 0.6911	train accuracy:	(C) 0.5422	
+test loss:	(C) 0.6881	test accuracy:	(C) 0.5705	
+-------------------------------
+epoch 1, batch 300
+train loss:	(C) 0.6888	train accuracy:	(C) 0.5555	
+test loss:	(C) 0.6887	test accuracy:	(C) 0.5720	
+-------------------------------
+epoch 1, batch 320
+train loss:	(C) 0.6881	train accuracy:	(C) 0.5737	
+test loss:	(C) 0.6887	test accuracy:	(C) 0.5710	
+-------------------------------
+epoch 1, batch 340
+train loss:	(C) 0.6891	train accuracy:	(C) 0.5575	
+test loss:	(C) 0.6877	test accuracy:	(C) 0.5683	
+-------------------------------
+epoch 1, batch 360
+train loss:	(C) 0.6884	train accuracy:	(C) 0.5583	
+test loss:	(C) 0.6873	test accuracy:	(C) 0.5757	
+-------------------------------
+epoch 1, batch 380
+train loss:	(C) 0.6864	train accuracy:	(C) 0.5733	
+test loss:	(C) 0.6870	test accuracy:	(C) 0.5582	
+-------------------------------
+epoch 1, batch 400
+train loss:	(C) 0.6881	train accuracy:	(C) 0.5520	
+test loss:	(C) 0.6865	test accuracy:	(C) 0.5565	
+-------------------------------
+epoch 1, batch 420
+train loss:	(C) 0.6845	train accuracy:	(C) 0.6050	
+test loss:	(C) 0.6855	test accuracy:	(C) 0.5615	
+-------------------------------
+epoch 1, batch 440
+train loss:	(C) 0.6843	train accuracy:	(C) 0.5895	
+test loss:	(C) 0.6855	test accuracy:	(C) 0.5562	
+-------------------------------
+epoch 1, batch 460
+train loss:	(C) 0.6851	train accuracy:	(C) 0.5890	
+test loss:	(C) 0.6861	test accuracy:	(C) 0.5508	
+-------------------------------
+epoch 1, batch 480
+train loss:	(C) 0.6849	train accuracy:	(C) 0.5905	
+test loss:	(C) 0.6845	test accuracy:	(C) 0.5688	
+-------------------------------
+epoch 1, batch 500
+train loss:	(C) 0.6811	train accuracy:	(C) 0.6142	
+test loss:	(C) 0.6862	test accuracy:	(C) 0.5695	
+-------------------------------
+epoch 1, batch 520
+train loss:	(C) 0.6858	train accuracy:	(C) 0.5597	
+test loss:	(C) 0.6867	test accuracy:	(C) 0.5712	
+-------------------------------
+epoch 1, batch 540
+train loss:	(C) 0.6831	train accuracy:	(C) 0.5737	
+test loss:	(C) 0.6843	test accuracy:	(C) 0.5825	
+-------------------------------
+epoch 1, batch 560
+train loss:	(C) 0.6832	train accuracy:	(C) 0.5773	
+test loss:	(C) 0.6833	test accuracy:	(C) 0.5890	
+-------------------------------
+epoch 1, batch 580
+train loss:	(C) 0.6834	train accuracy:	(C) 0.5767	
+test loss:	(C) 0.6812	test accuracy:	(C) 0.5975	
+-------------------------------
+epoch 1, batch 600
+train loss:	(C) 0.6821	train accuracy:	(C) 0.5863	
+test loss:	(C) 0.6823	test accuracy:	(C) 0.5925	
+-------------------------------
+epoch 1, batch 620
+train loss:	(C) 0.6823	train accuracy:	(C) 0.5995	
+test loss:	(C) 0.6796	test accuracy:	(C) 0.6048	
+-------------------------------
+epoch 1, batch 640
+train loss:	(C) 0.6794	train accuracy:	(C) 0.6113	
+test loss:	(C) 0.6797	test accuracy:	(C) 0.5978	
+-------------------------------
+epoch 1, batch 660
+train loss:	(C) 0.6804	train accuracy:	(C) 0.5933	
+test loss:	(C) 0.6807	test accuracy:	(C) 0.5893	
+-------------------------------
+epoch 1, batch 680
+train loss:	(C) 0.6797	train accuracy:	(C) 0.5878	
+test loss:	(C) 0.6785	test accuracy:	(C) 0.5938	
+-------------------------------
+epoch 1, batch 700
+train loss:	(C) 0.6776	train accuracy:	(C) 0.6040	
+test loss:	(C) 0.6800	test accuracy:	(C) 0.5970	
+-------------------------------
+epoch 1, batch 720
+train loss:	(C) 0.6775	train accuracy:	(C) 0.5932	
+test loss:	(C) 0.6778	test accuracy:	(C) 0.6032	
+-------------------------------
+epoch 1, batch 740
+train loss:	(C) 0.6736	train accuracy:	(C) 0.6137	
+test loss:	(C) 0.6788	test accuracy:	(C) 0.6068	
+-------------------------------
+epoch 1, batch 760
+train loss:	(C) 0.6769	train accuracy:	(C) 0.6005	
+test loss:	(C) 0.6773	test accuracy:	(C) 0.5933	
+-------------------------------
+epoch 1, batch 780
+train loss:	(C) 0.6755	train accuracy:	(C) 0.6015	
+test loss:	(C) 0.6769	test accuracy:	(C) 0.6052	
+-------------------------------
+epoch 1, batch 800
+train loss:	(C) 0.6759	train accuracy:	(C) 0.6105	
+test loss:	(C) 0.6761	test accuracy:	(C) 0.6182	
+-------------------------------
+epoch 1, batch 820
+train loss:	(C) 0.6838	train accuracy:	(C) 0.5942	
+test loss:	(C) 0.6737	test accuracy:	(C) 0.6190	
+-------------------------------
+epoch 1, batch 840
+train loss:	(C) 0.6834	train accuracy:	(C) 0.6000	
+test loss:	(C) 0.6770	test accuracy:	(C) 0.6195	
+-------------------------------
+epoch 1, batch 860
+train loss:	(C) 0.6831	train accuracy:	(C) 0.6088	
+test loss:	(C) 0.6768	test accuracy:	(C) 0.6177	
+-------------------------------
+epoch 1, batch 880
+train loss:	(C) 0.6810	train accuracy:	(C) 0.5995	
+test loss:	(C) 0.6745	test accuracy:	(C) 0.6218	
+-------------------------------
+epoch 1, batch 900
+train loss:	(C) 0.6805	train accuracy:	(C) 0.6080	
+test loss:	(C) 0.6728	test accuracy:	(C) 0.6180	
+-------------------------------
+epoch 1, batch 920
+train loss:	(C) 0.6678	train accuracy:	(C) 0.6538	
+test loss:	(C) 0.6754	test accuracy:	(C) 0.6068	
+-------------------------------
+epoch 1, batch 940
+train loss:	(C) 0.6664	train accuracy:	(C) 0.6558	
+test loss:	(C) 0.6709	test accuracy:	(C) 0.6230	
+-------------------------------
+epoch 1, batch 960
+train loss:	(C) 0.6620	train accuracy:	(C) 0.6638	
+test loss:	(C) 0.6728	test accuracy:	(C) 0.6128	
+-------------------------------
+epoch 1, batch 980
+train loss:	(C) 0.6672	train accuracy:	(C) 0.6330	
+test loss:	(C) 0.6713	test accuracy:	(C) 0.6138	
+-------------------------------
+epoch 1, batch 1000
+train loss:	(C) 0.6593	train accuracy:	(C) 0.6598	
+test loss:	(C) 0.6760	test accuracy:	(C) 0.6055	
+-------------------------------
+epoch 1, batch 1020
+train loss:	(C) 0.6789	train accuracy:	(C) 0.5890	
+test loss:	(C) 0.6765	test accuracy:	(C) 0.5955	
+-------------------------------
+epoch 1, batch 1040
+train loss:	(C) 0.6791	train accuracy:	(C) 0.5905	
+test loss:	(C) 0.6703	test accuracy:	(C) 0.6400	
+-------------------------------
+epoch 1, batch 1060
+train loss:	(C) 0.6773	train accuracy:	(C) 0.6015	
+test loss:	(C) 0.6741	test accuracy:	(C) 0.6288	
+-------------------------------
+epoch 1, batch 1080
+train loss:	(C) 0.6731	train accuracy:	(C) 0.6168	
+test loss:	(C) 0.6709	test accuracy:	(C) 0.6400	
+-------------------------------
+epoch 1, batch 1100
+train loss:	(C) 0.6745	train accuracy:	(C) 0.6183	
+test loss:	(C) 0.6664	test accuracy:	(C) 0.6435	
+-------------------------------
+epoch 1, batch 1120
+train loss:	(C) 0.6726	train accuracy:	(C) 0.6123	
+test loss:	(C) 0.6676	test accuracy:	(C) 0.6362	
+-------------------------------
+epoch 1, batch 1140
+train loss:	(C) 0.6746	train accuracy:	(C) 0.6112	
+test loss:	(C) 0.6658	test accuracy:	(C) 0.6487	
+-------------------------------
+epoch 1, batch 1160
+train loss:	(C) 0.6742	train accuracy:	(C) 0.6153	
+test loss:	(C) 0.6682	test accuracy:	(C) 0.6425	
+-------------------------------
+epoch 1, batch 1180
+train loss:	(C) 0.6765	train accuracy:	(C) 0.6063	
+test loss:	(C) 0.6698	test accuracy:	(C) 0.6353	
+-------------------------------
+epoch 1, batch 1200
+train loss:	(C) 0.6745	train accuracy:	(C) 0.6168	
+test loss:	(C) 0.6666	test accuracy:	(C) 0.6462	
+-------------------------------
+epoch 1, batch 1220
+train loss:	(C) 0.6650	train accuracy:	(C) 0.6417	
+test loss:	(C) 0.6645	test accuracy:	(C) 0.6490	
+-------------------------------
+epoch 1, batch 1240
+train loss:	(C) 0.6670	train accuracy:	(C) 0.6465	
+test loss:	(C) 0.6686	test accuracy:	(C) 0.6293	
+-------------------------------
+epoch 1, batch 1260
+train loss:	(C) 0.6652	train accuracy:	(C) 0.6385	
+test loss:	(C) 0.6672	test accuracy:	(C) 0.6302	
+-------------------------------
+epoch 1, batch 1280
+train loss:	(C) 0.6602	train accuracy:	(C) 0.6603	
+test loss:	(C) 0.6650	test accuracy:	(C) 0.6408	
+-------------------------------
+epoch 1, batch 1300
+train loss:	(C) 0.6626	train accuracy:	(C) 0.6490	
+test loss:	(C) 0.6698	test accuracy:	(C) 0.6240	
+-------------------------------
+epoch 1, batch 1320
+train loss:	(C) 0.6699	train accuracy:	(C) 0.6243	
+test loss:	(C) 0.6653	test accuracy:	(C) 0.6450	
+-------------------------------
+epoch 1, batch 1340
+train loss:	(C) 0.6714	train accuracy:	(C) 0.6177	
+test loss:	(C) 0.6629	test accuracy:	(C) 0.6555	
+-------------------------------
+epoch 1, batch 1360
+train loss:	(C) 0.6719	train accuracy:	(C) 0.6260	
+test loss:	(C) 0.6640	test accuracy:	(C) 0.6602	
+-------------------------------
+epoch 1, batch 1380
+train loss:	(C) 0.6726	train accuracy:	(C) 0.6250	
+test loss:	(C) 0.6644	test accuracy:	(C) 0.6597	
+-------------------------------
+epoch 1, batch 1400
+train loss:	(C) 0.6644	train accuracy:	(C) 0.6350	
+test loss:	(C) 0.6668	test accuracy:	(C) 0.6495	
+-------------------------------
+epoch 1, batch 1420
+train loss:	(C) 0.6626	train accuracy:	(C) 0.6598	
+test loss:	(C) 0.6597	test accuracy:	(C) 0.6508	
+-------------------------------
+epoch 1, batch 1440
+train loss:	(C) 0.6603	train accuracy:	(C) 0.6568	
+test loss:	(C) 0.6605	test accuracy:	(C) 0.6520	
+-------------------------------
+epoch 1, batch 1460
+train loss:	(C) 0.6596	train accuracy:	(C) 0.6550	
+test loss:	(C) 0.6597	test accuracy:	(C) 0.6545	
+-------------------------------
+epoch 1, batch 1480
+train loss:	(C) 0.6586	train accuracy:	(C) 0.6705	
+test loss:	(C) 0.6611	test accuracy:	(C) 0.6470	
+-------------------------------
+epoch 1, batch 1500
+train loss:	(C) 0.6563	train accuracy:	(C) 0.6665	
+test loss:	(C) 0.6583	test accuracy:	(C) 0.6448	
+-------------------------------
+epoch 1, batch 1520
+train loss:	(C) 0.6786	train accuracy:	(C) 0.6202	
+test loss:	(C) 0.6589	test accuracy:	(C) 0.6450	
+-------------------------------
+epoch 1, batch 1540
+train loss:	(C) 0.6807	train accuracy:	(C) 0.6138	
+test loss:	(C) 0.6634	test accuracy:	(C) 0.6335	
+-------------------------------
+epoch 1, batch 1560
+train loss:	(C) 0.6779	train accuracy:	(C) 0.6283	
+test loss:	(C) 0.6625	test accuracy:	(C) 0.6355	
+-------------------------------
+epoch 1, batch 1580
+train loss:	(C) 0.6799	train accuracy:	(C) 0.6100	
+test loss:	(C) 0.6609	test accuracy:	(C) 0.6385	
+-------------------------------
+epoch 1, batch 1600
+train loss:	(C) 0.6745	train accuracy:	(C) 0.6298	
+test loss:	(C) 0.6606	test accuracy:	(C) 0.6395	
+-------------------------------
+epoch 1, batch 1620
+train loss:	(C) 0.6665	train accuracy:	(C) 0.6487	
+test loss:	(C) 0.6595	test accuracy:	(C) 0.6533	
+-------------------------------
+epoch 1, batch 1640
+train loss:	(C) 0.6661	train accuracy:	(C) 0.6382	
+test loss:	(C) 0.6593	test accuracy:	(C) 0.6515	
+-------------------------------
+epoch 1, batch 1660
+train loss:	(C) 0.6644	train accuracy:	(C) 0.6440	
+test loss:	(C) 0.6570	test accuracy:	(C) 0.6510	
+-------------------------------
+epoch 1, batch 1680
+train loss:	(C) 0.6630	train accuracy:	(C) 0.6565	
+test loss:	(C) 0.6629	test accuracy:	(C) 0.6422	
+-------------------------------
+epoch 1, batch 1700
+train loss:	(C) 0.6579	train accuracy:	(C) 0.6580	
+test loss:	(C) 0.6582	test accuracy:	(C) 0.6465	
+-------------------------------
+epoch 1, batch 1720
+train loss:	(C) 0.6535	train accuracy:	(C) 0.6650	
+test loss:	(C) 0.6560	test accuracy:	(C) 0.6615	
+-------------------------------
+epoch 1, batch 1740
+train loss:	(C) 0.6543	train accuracy:	(C) 0.6703	
+test loss:	(C) 0.6583	test accuracy:	(C) 0.6525	
+-------------------------------
+epoch 1, batch 1760
+train loss:	(C) 0.6523	train accuracy:	(C) 0.6680	
+test loss:	(C) 0.6510	test accuracy:	(C) 0.6683	
+-------------------------------
+epoch 1, batch 1780
+train loss:	(C) 0.6523	train accuracy:	(C) 0.6735	
+test loss:	(C) 0.6535	test accuracy:	(C) 0.6580	
+-------------------------------
+epoch 1, batch 1800
+train loss:	(C) 0.6482	train accuracy:	(C) 0.6892	
+test loss:	(C) 0.6507	test accuracy:	(C) 0.6723	
+-------------------------------
+epoch 1, batch 1820
+train loss:	(C) 0.6657	train accuracy:	(C) 0.6398	
+test loss:	(C) 0.6566	test accuracy:	(C) 0.6510	
+-------------------------------
+epoch 1, batch 1840
+train loss:	(C) 0.6637	train accuracy:	(C) 0.6458	
+test loss:	(C) 0.6516	test accuracy:	(C) 0.6725	
+-------------------------------
+epoch 1, batch 1860
+train loss:	(C) 0.6645	train accuracy:	(C) 0.6492	
+test loss:	(C) 0.6545	test accuracy:	(C) 0.6638	
+-------------------------------
+epoch 1, batch 1880
+train loss:	(C) 0.6591	train accuracy:	(C) 0.6470	
+test loss:	(C) 0.6563	test accuracy:	(C) 0.6538	
+-------------------------------
+epoch 1, batch 1900
+train loss:	(C) 0.6644	train accuracy:	(C) 0.6435	
+test loss:	(C) 0.6552	test accuracy:	(C) 0.6520	
+-------------------------------
+epoch 1, batch 1920
+train loss:	(C) 0.6548	train accuracy:	(C) 0.6465	
+test loss:	(C) 0.6478	test accuracy:	(C) 0.6723	
+-------------------------------
+epoch 1, batch 1940
+train loss:	(C) 0.6533	train accuracy:	(C) 0.6607	
+test loss:	(C) 0.6506	test accuracy:	(C) 0.6645	
+-------------------------------
+epoch 1, batch 1960
+train loss:	(C) 0.6470	train accuracy:	(C) 0.6673	
+test loss:	(C) 0.6526	test accuracy:	(C) 0.6700	
+-------------------------------
+epoch 1, batch 1980
+train loss:	(C) 0.6496	train accuracy:	(C) 0.6643	
+test loss:	(C) 0.6489	test accuracy:	(C) 0.6693	
+-------------------------------
+epoch 1, batch 2000
+train loss:	(C) 0.6483	train accuracy:	(C) 0.6678	
+test loss:	(C) 0.6487	test accuracy:	(C) 0.6802	
+-------------------------------
+epoch 1, batch 2020
+train loss:	(C) 0.6543	train accuracy:	(C) 0.6555	
+test loss:	(C) 0.6499	test accuracy:	(C) 0.6710	
+-------------------------------
+epoch 1, batch 2040
+train loss:	(C) 0.6577	train accuracy:	(C) 0.6532	
+test loss:	(C) 0.6535	test accuracy:	(C) 0.6645	
+-------------------------------
+epoch 1, batch 2060
+train loss:	(C) 0.6560	train accuracy:	(C) 0.6588	
+test loss:	(C) 0.6445	test accuracy:	(C) 0.6798	
+-------------------------------
+epoch 1, batch 2080
+train loss:	(C) 0.6492	train accuracy:	(C) 0.6680	
+test loss:	(C) 0.6431	test accuracy:	(C) 0.6942	
+-------------------------------
+epoch 1, batch 2100
+train loss:	(C) 0.6559	train accuracy:	(C) 0.6465	
+test loss:	(C) 0.6443	test accuracy:	(C) 0.6940	
+-------------------------------
+epoch 1, batch 2120
+train loss:	(C) 0.6381	train accuracy:	(C) 0.7055	
+test loss:	(C) 0.6444	test accuracy:	(C) 0.6823	
+-------------------------------
+epoch 1, batch 2140
+train loss:	(C) 0.6359	train accuracy:	(C) 0.7027	
+test loss:	(C) 0.6413	test accuracy:	(C) 0.6820	
+-------------------------------
+epoch 1, batch 2160
+train loss:	(C) 0.6348	train accuracy:	(C) 0.7030	
+test loss:	(C) 0.6427	test accuracy:	(C) 0.6745	
+-------------------------------
+epoch 1, batch 2180
+train loss:	(C) 0.6408	train accuracy:	(C) 0.6838	
+test loss:	(C) 0.6458	test accuracy:	(C) 0.6778	
+-------------------------------
+epoch 1, batch 2200
+train loss:	(C) 0.6334	train accuracy:	(C) 0.7060	
+test loss:	(C) 0.6433	test accuracy:	(C) 0.6797	
+-------------------------------
+epoch 1, batch 2220
+train loss:	(C) 0.6397	train accuracy:	(C) 0.6867	
+test loss:	(C) 0.6389	test accuracy:	(C) 0.6927	
+-------------------------------
+epoch 1, batch 2240
+train loss:	(C) 0.6377	train accuracy:	(C) 0.6875	
+test loss:	(C) 0.6466	test accuracy:	(C) 0.6775	
+-------------------------------
+epoch 1, batch 2260
+train loss:	(C) 0.6375	train accuracy:	(C) 0.7010	
+test loss:	(C) 0.6413	test accuracy:	(C) 0.6845	
+-------------------------------
+epoch 1, batch 2280
+train loss:	(C) 0.6367	train accuracy:	(C) 0.6957	
+test loss:	(C) 0.6424	test accuracy:	(C) 0.6815	
+-------------------------------
+epoch 1, batch 2300
+train loss:	(C) 0.6341	train accuracy:	(C) 0.7030	
+test loss:	(C) 0.6398	test accuracy:	(C) 0.6835	
+-------------------------------
+epoch 1, batch 2320
+train loss:	(C) 0.6468	train accuracy:	(C) 0.6803	
+test loss:	(C) 0.6432	test accuracy:	(C) 0.6855	
+-------------------------------
+epoch 1, batch 2340
+train loss:	(C) 0.6481	train accuracy:	(C) 0.6757	
+test loss:	(C) 0.6370	test accuracy:	(C) 0.6770	
+-------------------------------
+epoch 1, batch 2360
+train loss:	(C) 0.6427	train accuracy:	(C) 0.6790	
+test loss:	(C) 0.6397	test accuracy:	(C) 0.6953	
+-------------------------------
+epoch 1, batch 2380
+train loss:	(C) 0.6470	train accuracy:	(C) 0.6645	
+test loss:	(C) 0.6350	test accuracy:	(C) 0.6948	
+-------------------------------
+epoch 1, batch 2400
+train loss:	(C) 0.6437	train accuracy:	(C) 0.6640	
+test loss:	(C) 0.6352	test accuracy:	(C) 0.6950	
+-------------------------------
+epoch 1, batch 2420
+train loss:	(C) 0.6491	train accuracy:	(C) 0.6497	
+test loss:	(C) 0.6339	test accuracy:	(C) 0.6927	
+-------------------------------
+epoch 1, batch 2440
+train loss:	(C) 0.6491	train accuracy:	(C) 0.6535	
+test loss:	(C) 0.6354	test accuracy:	(C) 0.7013	
+-------------------------------
+epoch 1, batch 2460
+train loss:	(C) 0.6509	train accuracy:	(C) 0.6517	
+test loss:	(C) 0.6395	test accuracy:	(C) 0.6917	
+-------------------------------
+epoch 1, batch 2480
+train loss:	(C) 0.6510	train accuracy:	(C) 0.6685	
+test loss:	(C) 0.6363	test accuracy:	(C) 0.6920	
+-------------------------------
+epoch 1, batch 2500
+train loss:	(C) 0.6488	train accuracy:	(C) 0.6712	
+test loss:	(C) 0.6398	test accuracy:	(C) 0.6963	
+-------------------------------
+epoch 1, batch 2520
+train loss:	(C) 0.6495	train accuracy:	(C) 0.6640	
+test loss:	(C) 0.6410	test accuracy:	(C) 0.6908	
+-------------------------------
+epoch 1, batch 2540
+train loss:	(C) 0.6449	train accuracy:	(C) 0.6785	
+test loss:	(C) 0.6371	test accuracy:	(C) 0.6962	
+-------------------------------
+epoch 1, batch 2560
+train loss:	(C) 0.6400	train accuracy:	(C) 0.6795	
+test loss:	(C) 0.6360	test accuracy:	(C) 0.6990	
+-------------------------------
+epoch 1, batch 2580
+train loss:	(C) 0.6480	train accuracy:	(C) 0.6493	
+test loss:	(C) 0.6365	test accuracy:	(C) 0.6970	
+-------------------------------
+epoch 1, batch 2600
+train loss:	(C) 0.6428	train accuracy:	(C) 0.6678	
+test loss:	(C) 0.6367	test accuracy:	(C) 0.6910	
+-------------------------------
+epoch 1, batch 2620
+train loss:	(C) 0.6494	train accuracy:	(C) 0.6665	
+test loss:	(C) 0.6331	test accuracy:	(C) 0.6990	
+-------------------------------
+epoch 1, batch 2640
+train loss:	(C) 0.6455	train accuracy:	(C) 0.6720	
+test loss:	(C) 0.6316	test accuracy:	(C) 0.7015	
+-------------------------------
+epoch 1, batch 2660
+train loss:	(C) 0.6496	train accuracy:	(C) 0.6575	
+test loss:	(C) 0.6319	test accuracy:	(C) 0.6998	
+-------------------------------
+epoch 1, batch 2680
+train loss:	(C) 0.6491	train accuracy:	(C) 0.6613	
+test loss:	(C) 0.6331	test accuracy:	(C) 0.6960	
+-------------------------------
+epoch 1, batch 2700
+train loss:	(C) 0.6516	train accuracy:	(C) 0.6717	
+test loss:	(C) 0.6315	test accuracy:	(C) 0.7075	
+-------------------------------
+epoch 1, batch 2720
+train loss:	(C) 0.6448	train accuracy:	(C) 0.6635	
+test loss:	(C) 0.6313	test accuracy:	(C) 0.7035	
+-------------------------------
+epoch 1, batch 2740
+train loss:	(C) 0.6460	train accuracy:	(C) 0.6682	
+test loss:	(C) 0.6303	test accuracy:	(C) 0.7090	
+-------------------------------
+epoch 1, batch 2760
+train loss:	(C) 0.6466	train accuracy:	(C) 0.6555	
+test loss:	(C) 0.6335	test accuracy:	(C) 0.6995	
+-------------------------------
+epoch 1, batch 2780
+train loss:	(C) 0.6472	train accuracy:	(C) 0.6560	
+test loss:	(C) 0.6352	test accuracy:	(C) 0.6985	
+-------------------------------
+epoch 1, batch 2800
+train loss:	(C) 0.6504	train accuracy:	(C) 0.6512	
+test loss:	(C) 0.6312	test accuracy:	(C) 0.6973	
+-------------------------------
+epoch 1, batch 2820
+train loss:	(C) 0.6332	train accuracy:	(C) 0.6905	
+test loss:	(C) 0.6289	test accuracy:	(C) 0.7045	
+-------------------------------
+epoch 1, batch 2840
+train loss:	(C) 0.6367	train accuracy:	(C) 0.6825	
+test loss:	(C) 0.6312	test accuracy:	(C) 0.7000	
+-------------------------------
+epoch 1, batch 2860
+train loss:	(C) 0.6360	train accuracy:	(C) 0.6770	
+test loss:	(C) 0.6290	test accuracy:	(C) 0.7023	
+-------------------------------
+epoch 1, batch 2880
+train loss:	(C) 0.6319	train accuracy:	(C) 0.6935	
+test loss:	(C) 0.6299	test accuracy:	(C) 0.7030	
+-------------------------------
+epoch 1, batch 2900
+train loss:	(C) 0.6396	train accuracy:	(C) 0.6705	
+test loss:	(C) 0.6274	test accuracy:	(C) 0.7020	
+-------------------------------
+epoch 1, batch 2920
+train loss:	(C) 0.6272	train accuracy:	(C) 0.7063	
+test loss:	(C) 0.6272	test accuracy:	(C) 0.7112	
+-------------------------------
+epoch 1, batch 2940
+train loss:	(C) 0.6232	train accuracy:	(C) 0.7163	
+test loss:	(C) 0.6276	test accuracy:	(C) 0.7130	
+-------------------------------
+epoch 1, batch 2960
+train loss:	(C) 0.6209	train accuracy:	(C) 0.7165	
+test loss:	(C) 0.6250	test accuracy:	(C) 0.7045	
+-------------------------------
+epoch 1, batch 2980
+train loss:	(C) 0.6230	train accuracy:	(C) 0.7090	
+test loss:	(C) 0.6294	test accuracy:	(C) 0.7035	
+-------------------------------
+epoch 1, batch 3000
+train loss:	(C) 0.6228	train accuracy:	(C) 0.7027	
+test loss:	(C) 0.6245	test accuracy:	(C) 0.7080	
+-------------------------------
+epoch 1, batch 3020
+train loss:	(C) 0.6205	train accuracy:	(C) 0.7188	
+test loss:	(C) 0.6284	test accuracy:	(C) 0.7032	
+-------------------------------
+epoch 1, batch 3040
+train loss:	(C) 0.6207	train accuracy:	(C) 0.7140	
+test loss:	(C) 0.6289	test accuracy:	(C) 0.7050	
+-------------------------------
+epoch 1, batch 3060
+train loss:	(C) 0.6200	train accuracy:	(C) 0.7163	
+test loss:	(C) 0.6244	test accuracy:	(C) 0.7097	
+-------------------------------
+epoch 1, batch 3080
+train loss:	(C) 0.6147	train accuracy:	(C) 0.7258	
+test loss:	(C) 0.6250	test accuracy:	(C) 0.7053	
+-------------------------------
+epoch 1, batch 3100
+train loss:	(C) 0.6202	train accuracy:	(C) 0.7050	
+test loss:	(C) 0.6224	test accuracy:	(C) 0.7103	
+-------------------------------
+epoch 1, batch 3120
+train loss:	(C) 0.6285	train accuracy:	(C) 0.7008	
+test loss:	(C) 0.6225	test accuracy:	(C) 0.7032	
+-------------------------------
+epoch 1, batch 3140
+train loss:	(C) 0.6282	train accuracy:	(C) 0.6947	
+test loss:	(C) 0.6263	test accuracy:	(C) 0.7063	
+-------------------------------
+epoch 1, batch 3160
+train loss:	(C) 0.6279	train accuracy:	(C) 0.7013	
+test loss:	(C) 0.6203	test accuracy:	(C) 0.7085	
+-------------------------------
+epoch 1, batch 3180
+train loss:	(C) 0.6221	train accuracy:	(C) 0.7090	
+test loss:	(C) 0.6201	test accuracy:	(C) 0.7160	
+-------------------------------
+epoch 1, batch 3200
+train loss:	(C) 0.6300	train accuracy:	(C) 0.6953	
+test loss:	(C) 0.6190	test accuracy:	(C) 0.7205	
+-------------------------------
+epoch 1, batch 3220
+train loss:	(C) 0.6273	train accuracy:	(C) 0.7057	
+test loss:	(C) 0.6242	test accuracy:	(C) 0.7010	
+-------------------------------
+epoch 1, batch 3240
+train loss:	(C) 0.6211	train accuracy:	(C) 0.7155	
+test loss:	(C) 0.6231	test accuracy:	(C) 0.7060	
+-------------------------------
+epoch 1, batch 3260
+train loss:	(C) 0.6299	train accuracy:	(C) 0.6953	
+test loss:	(C) 0.6216	test accuracy:	(C) 0.7135	
+-------------------------------
+epoch 1, batch 3280
+train loss:	(C) 0.6270	train accuracy:	(C) 0.7085	
+test loss:	(C) 0.6180	test accuracy:	(C) 0.7205	
+-------------------------------
+epoch 1, batch 3300
+train loss:	(C) 0.6295	train accuracy:	(C) 0.6992	
+test loss:	(C) 0.6238	test accuracy:	(C) 0.7062	
+-------------------------------
+epoch 1, batch 3320
+train loss:	(C) 0.6197	train accuracy:	(C) 0.7013	
+test loss:	(C) 0.6192	test accuracy:	(C) 0.7127	
+-------------------------------
+epoch 1, batch 3340
+train loss:	(C) 0.6185	train accuracy:	(C) 0.7092	
+test loss:	(C) 0.6168	test accuracy:	(C) 0.7277	
+-------------------------------
+epoch 1, batch 3360
+train loss:	(C) 0.6157	train accuracy:	(C) 0.7143	
+test loss:	(C) 0.6182	test accuracy:	(C) 0.7155	
+-------------------------------
+epoch 1, batch 3380
+train loss:	(C) 0.6133	train accuracy:	(C) 0.7130	
+test loss:	(C) 0.6149	test accuracy:	(C) 0.7223	
+-------------------------------
+epoch 1, batch 3400
+train loss:	(C) 0.6114	train accuracy:	(C) 0.7235	
+test loss:	(C) 0.6213	test accuracy:	(C) 0.7115	
+-------------------------------
+epoch 1, batch 3420
+train loss:	(C) 0.6166	train accuracy:	(C) 0.7245	
+test loss:	(C) 0.6165	test accuracy:	(C) 0.7177	
+-------------------------------
+epoch 1, batch 3440
+train loss:	(C) 0.6134	train accuracy:	(C) 0.7337	
+test loss:	(C) 0.6190	test accuracy:	(C) 0.7145	
+-------------------------------
+epoch 1, batch 3460
+train loss:	(C) 0.6153	train accuracy:	(C) 0.7245	
+test loss:	(C) 0.6135	test accuracy:	(C) 0.7165	
+-------------------------------
+epoch 1, batch 3480
+train loss:	(C) 0.6135	train accuracy:	(C) 0.7288	
+test loss:	(C) 0.6191	test accuracy:	(C) 0.7028	
+-------------------------------
+epoch 1, batch 3500
+train loss:	(C) 0.6135	train accuracy:	(C) 0.7252	
+test loss:	(C) 0.6206	test accuracy:	(C) 0.7097	
+-------------------------------
+epoch 1, batch 3520
+train loss:	(C) 0.6056	train accuracy:	(C) 0.7338	
+test loss:	(C) 0.6121	test accuracy:	(C) 0.7250	
+-------------------------------
+epoch 1, batch 3540
+train loss:	(C) 0.6115	train accuracy:	(C) 0.7212	
+test loss:	(C) 0.6160	test accuracy:	(C) 0.7140	
+-------------------------------
+epoch 1, batch 3560
+train loss:	(C) 0.6075	train accuracy:	(C) 0.7337	
+test loss:	(C) 0.6125	test accuracy:	(C) 0.7150	
+-------------------------------
+epoch 1, batch 3580
+train loss:	(C) 0.6089	train accuracy:	(C) 0.7215	
+test loss:	(C) 0.6125	test accuracy:	(C) 0.7270	
+-------------------------------
+epoch 1, batch 3600
+train loss:	(C) 0.6134	train accuracy:	(C) 0.7242	
+test loss:	(C) 0.6079	test accuracy:	(C) 0.7278	
+-------------------------------
+epoch 1, batch 3620
+train loss:	(C) 0.6202	train accuracy:	(C) 0.7150	
+test loss:	(C) 0.6134	test accuracy:	(C) 0.7170	
+-------------------------------
+epoch 1, batch 3640
+train loss:	(C) 0.6184	train accuracy:	(C) 0.7177	
+test loss:	(C) 0.6103	test accuracy:	(C) 0.7260	
+-------------------------------
+epoch 1, batch 3660
+train loss:	(C) 0.6178	train accuracy:	(C) 0.7135	
+test loss:	(C) 0.6113	test accuracy:	(C) 0.7192	
+-------------------------------
+epoch 1, batch 3680
+train loss:	(C) 0.6261	train accuracy:	(C) 0.7065	
+test loss:	(C) 0.6086	test accuracy:	(C) 0.7183	
+-------------------------------
+epoch 1, batch 3700
+train loss:	(C) 0.6190	train accuracy:	(C) 0.7243	
+test loss:	(C) 0.6161	test accuracy:	(C) 0.7198	
+-------------------------------
+epoch 1, batch 3720
+train loss:	(C) 0.6168	train accuracy:	(C) 0.7100	
+test loss:	(C) 0.6143	test accuracy:	(C) 0.7113	
+-------------------------------
+epoch 1, batch 3740
+train loss:	(C) 0.6141	train accuracy:	(C) 0.7285	
+test loss:	(C) 0.6111	test accuracy:	(C) 0.7112	
+-------------------------------
+epoch 1, batch 3760
+train loss:	(C) 0.6133	train accuracy:	(C) 0.7195	
+test loss:	(C) 0.6113	test accuracy:	(C) 0.7140	
+-------------------------------
+epoch 1, batch 3780
+train loss:	(C) 0.6105	train accuracy:	(C) 0.7198	
+test loss:	(C) 0.6159	test accuracy:	(C) 0.7070	
+-------------------------------
+epoch 1, batch 3800
+train loss:	(C) 0.6086	train accuracy:	(C) 0.7272	
+test loss:	(C) 0.6122	test accuracy:	(C) 0.7078	
+-------------------------------
+epoch 1, batch 3820
+train loss:	(C) 0.5978	train accuracy:	(C) 0.7325	
+test loss:	(C) 0.6088	test accuracy:	(C) 0.7213	
+-------------------------------
+epoch 1, batch 3840
+train loss:	(C) 0.6021	train accuracy:	(C) 0.7275	
+test loss:	(C) 0.6052	test accuracy:	(C) 0.7350	
+-------------------------------
+epoch 1, batch 3860
+train loss:	(C) 0.6053	train accuracy:	(C) 0.7215	
+test loss:	(C) 0.6109	test accuracy:	(C) 0.7220	
+-------------------------------
+epoch 1, batch 3880
+train loss:	(C) 0.6016	train accuracy:	(C) 0.7312	
+test loss:	(C) 0.6162	test accuracy:	(C) 0.7140	
+-------------------------------
+epoch 1, batch 3900
+train loss:	(C) 0.6036	train accuracy:	(C) 0.7298	
+test loss:	(C) 0.6094	test accuracy:	(C) 0.7182	
+-------------------------------
+epoch 1, batch 3920
+train loss:	(C) 0.5982	train accuracy:	(C) 0.7412	
+test loss:	(C) 0.6101	test accuracy:	(C) 0.7150	
+-------------------------------
+epoch 1, batch 3940
+train loss:	(C) 0.6009	train accuracy:	(C) 0.7382	
+test loss:	(C) 0.6110	test accuracy:	(C) 0.7205	
+-------------------------------
+epoch 1, batch 3960
+train loss:	(C) 0.6011	train accuracy:	(C) 0.7312	
+test loss:	(C) 0.6169	test accuracy:	(C) 0.7060	
+-------------------------------
+epoch 1, batch 3980
+train loss:	(C) 0.5998	train accuracy:	(C) 0.7260	
+test loss:	(C) 0.6075	test accuracy:	(C) 0.7210	
+-------------------------------
+epoch 1, batch 4000
+train loss:	(C) 0.5947	train accuracy:	(C) 0.7392	
+test loss:	(C) 0.6032	test accuracy:	(C) 0.7270	
+-------------------------------
+epoch 1, batch 4020
+train loss:	(C) 0.6106	train accuracy:	(C) 0.7132	
+test loss:	(C) 0.6056	test accuracy:	(C) 0.7203	
+-------------------------------
+epoch 1, batch 4040
+train loss:	(C) 0.6164	train accuracy:	(C) 0.7047	
+test loss:	(C) 0.6092	test accuracy:	(C) 0.7203	
+-------------------------------
+epoch 1, batch 4060
+train loss:	(C) 0.6116	train accuracy:	(C) 0.7107	
+test loss:	(C) 0.6068	test accuracy:	(C) 0.7295	
+-------------------------------
+epoch 1, batch 4080
+train loss:	(C) 0.6165	train accuracy:	(C) 0.7087	
+test loss:	(C) 0.6040	test accuracy:	(C) 0.7273	
+-------------------------------
+epoch 1, batch 4100
+train loss:	(C) 0.6117	train accuracy:	(C) 0.7095	
+test loss:	(C) 0.6071	test accuracy:	(C) 0.7183	
+-------------------------------
+epoch 1, batch 4120
+train loss:	(C) 0.6025	train accuracy:	(C) 0.7332	
+test loss:	(C) 0.6038	test accuracy:	(C) 0.7213	
+-------------------------------
+epoch 1, batch 4140
+train loss:	(C) 0.6064	train accuracy:	(C) 0.7225	
+test loss:	(C) 0.6064	test accuracy:	(C) 0.7183	
+-------------------------------
+epoch 1, batch 4160
+train loss:	(C) 0.6016	train accuracy:	(C) 0.7265	
+test loss:	(C) 0.6055	test accuracy:	(C) 0.7242	
+-------------------------------
+epoch 1, batch 4180
+train loss:	(C) 0.6033	train accuracy:	(C) 0.7255	
+test loss:	(C) 0.6019	test accuracy:	(C) 0.7290	
+-------------------------------
+epoch 1, batch 4200
+train loss:	(C) 0.5981	train accuracy:	(C) 0.7392	
+test loss:	(C) 0.6033	test accuracy:	(C) 0.7270	
+-------------------------------
+epoch 1, batch 4220
+train loss:	(C) 0.5973	train accuracy:	(C) 0.7435	
+test loss:	(C) 0.6075	test accuracy:	(C) 0.7235	
+-------------------------------
+epoch 1, batch 4240
+train loss:	(C) 0.5962	train accuracy:	(C) 0.7412	
+test loss:	(C) 0.6137	test accuracy:	(C) 0.7070	
+-------------------------------
+epoch 1, batch 4260
+train loss:	(C) 0.5966	train accuracy:	(C) 0.7457	
+test loss:	(C) 0.6024	test accuracy:	(C) 0.7312	
+-------------------------------
+epoch 1, batch 4280
+train loss:	(C) 0.5948	train accuracy:	(C) 0.7455	
+test loss:	(C) 0.6042	test accuracy:	(C) 0.7180	
+-------------------------------
+epoch 1, batch 4300
+train loss:	(C) 0.5939	train accuracy:	(C) 0.7432	
+test loss:	(C) 0.5969	test accuracy:	(C) 0.7352	
+-------------------------------
+epoch 1, batch 4320
+train loss:	(C) 0.6050	train accuracy:	(C) 0.7065	
+test loss:	(C) 0.5968	test accuracy:	(C) 0.7312	
+-------------------------------
+epoch 1, batch 4340
+train loss:	(C) 0.6046	train accuracy:	(C) 0.7120	
+test loss:	(C) 0.6042	test accuracy:	(C) 0.7240	
+-------------------------------
+epoch 1, batch 4360
+train loss:	(C) 0.6031	train accuracy:	(C) 0.7090	
+test loss:	(C) 0.5991	test accuracy:	(C) 0.7348	
+-------------------------------
+epoch 1, batch 4380
+train loss:	(C) 0.6080	train accuracy:	(C) 0.7072	
+test loss:	(C) 0.6036	test accuracy:	(C) 0.7312	
+-------------------------------
+epoch 1, batch 4400
+train loss:	(C) 0.6071	train accuracy:	(C) 0.7125	
+test loss:	(C) 0.6005	test accuracy:	(C) 0.7298	
+-------------------------------
+epoch 1, batch 4420
+train loss:	(C) 0.6063	train accuracy:	(C) 0.7250	
+test loss:	(C) 0.5951	test accuracy:	(C) 0.7395	
+-------------------------------
+epoch 1, batch 4440
+train loss:	(C) 0.5970	train accuracy:	(C) 0.7382	
+test loss:	(C) 0.6029	test accuracy:	(C) 0.7230	
+-------------------------------
+epoch 1, batch 4460
+train loss:	(C) 0.6011	train accuracy:	(C) 0.7292	
+test loss:	(C) 0.6026	test accuracy:	(C) 0.7140	
+-------------------------------
+epoch 1, batch 4480
+train loss:	(C) 0.6021	train accuracy:	(C) 0.7295	
+test loss:	(C) 0.5973	test accuracy:	(C) 0.7297	
+-------------------------------
+epoch 1, batch 4500
+train loss:	(C) 0.6090	train accuracy:	(C) 0.7145	
+test loss:	(C) 0.6019	test accuracy:	(C) 0.7238	
+-------------------------------
+epoch 1, batch 4520
+train loss:	(C) 0.5967	train accuracy:	(C) 0.7290	
+test loss:	(C) 0.5996	test accuracy:	(C) 0.7210	
+-------------------------------
+epoch 1, batch 4540
+train loss:	(C) 0.5997	train accuracy:	(C) 0.7195	
+test loss:	(C) 0.6000	test accuracy:	(C) 0.7125	
+-------------------------------
+epoch 1, batch 4560
+train loss:	(C) 0.5990	train accuracy:	(C) 0.7235	
+test loss:	(C) 0.5986	test accuracy:	(C) 0.7283	
+-------------------------------
+epoch 1, batch 4580
+train loss:	(C) 0.6000	train accuracy:	(C) 0.7230	
+test loss:	(C) 0.6015	test accuracy:	(C) 0.7137	
+-------------------------------
+epoch 1, batch 4600
+train loss:	(C) 0.5940	train accuracy:	(C) 0.7283	
+test loss:	(C) 0.5984	test accuracy:	(C) 0.7248	
+-------------------------------
+epoch 1, batch 4620
+train loss:	(C) 0.5859	train accuracy:	(C) 0.7458	
+test loss:	(C) 0.6013	test accuracy:	(C) 0.7205	
+-------------------------------
+epoch 1, batch 4640
+train loss:	(C) 0.5902	train accuracy:	(C) 0.7435	
+test loss:	(C) 0.6022	test accuracy:	(C) 0.7150	
+-------------------------------
+epoch 1, batch 4660
+train loss:	(C) 0.5875	train accuracy:	(C) 0.7470	
+test loss:	(C) 0.6020	test accuracy:	(C) 0.7183	
+-------------------------------
+epoch 1, batch 4680
+train loss:	(C) 0.5923	train accuracy:	(C) 0.7395	
+test loss:	(C) 0.5977	test accuracy:	(C) 0.7190	
+-------------------------------
+epoch 1, batch 4700
+train loss:	(C) 0.5903	train accuracy:	(C) 0.7380	
+test loss:	(C) 0.5994	test accuracy:	(C) 0.7208	
+-------------------------------
+epoch 1, batch 4720
+train loss:	(C) 0.6019	train accuracy:	(C) 0.7223	
+test loss:	(C) 0.6000	test accuracy:	(C) 0.7200	
+-------------------------------
+epoch 1, batch 4740
+train loss:	(C) 0.5965	train accuracy:	(C) 0.7317	
+test loss:	(C) 0.5951	test accuracy:	(C) 0.7303	
+-------------------------------
+epoch 1, batch 4760
+train loss:	(C) 0.6029	train accuracy:	(C) 0.7200	
+test loss:	(C) 0.6016	test accuracy:	(C) 0.7180	
+-------------------------------
+epoch 1, batch 4780
+train loss:	(C) 0.6025	train accuracy:	(C) 0.7243	
+test loss:	(C) 0.5931	test accuracy:	(C) 0.7340	
+-------------------------------
+epoch 1, batch 4800
+train loss:	(C) 0.5996	train accuracy:	(C) 0.7200	
+test loss:	(C) 0.5976	test accuracy:	(C) 0.7227	
+-------------------------------
+epoch 1, batch 4820
+train loss:	(C) 0.5830	train accuracy:	(C) 0.7565	
+test loss:	(C) 0.5936	test accuracy:	(C) 0.7308	
+-------------------------------
+epoch 1, batch 4840
+train loss:	(C) 0.5866	train accuracy:	(C) 0.7457	
+test loss:	(C) 0.6030	test accuracy:	(C) 0.7182	
+-------------------------------
+epoch 1, batch 4860
+train loss:	(C) 0.5901	train accuracy:	(C) 0.7385	
+test loss:	(C) 0.5904	test accuracy:	(C) 0.7390	
+-------------------------------
+epoch 1, batch 4880
+train loss:	(C) 0.5897	train accuracy:	(C) 0.7340	
+test loss:	(C) 0.5956	test accuracy:	(C) 0.7232	
+-------------------------------
+epoch 1, batch 4900
+train loss:	(C) 0.5818	train accuracy:	(C) 0.7508	
+test loss:	(C) 0.5979	test accuracy:	(C) 0.7167	
+-------------------------------
+epoch 1, batch 4920
+train loss:	(C) 0.5842	train accuracy:	(C) 0.7420	
+test loss:	(C) 0.5967	test accuracy:	(C) 0.7282	
+-------------------------------
+epoch 1, batch 4940
+train loss:	(C) 0.5764	train accuracy:	(C) 0.7458	
+test loss:	(C) 0.5919	test accuracy:	(C) 0.7265	
+-------------------------------
+epoch 1, batch 4960
+train loss:	(C) 0.5793	train accuracy:	(C) 0.7500	
+test loss:	(C) 0.5872	test accuracy:	(C) 0.7345	
+-------------------------------
+epoch 1, batch 4980
+train loss:	(C) 0.5865	train accuracy:	(C) 0.7347	
+test loss:	(C) 0.5886	test accuracy:	(C) 0.7335	
+-------------------------------
+epoch 1, batch 5000
+train loss:	(C) 0.5836	train accuracy:	(C) 0.7350	
+test loss:	(C) 0.5896	test accuracy:	(C) 0.7355	
+-------------------------------
+epoch 1, batch 5020
+train loss:	(C) 0.5830	train accuracy:	(C) 0.7585	
+test loss:	(C) 0.5896	test accuracy:	(C) 0.7395	
+-------------------------------
+epoch 1, batch 5040
+train loss:	(C) 0.5789	train accuracy:	(C) 0.7635	
+test loss:	(C) 0.5919	test accuracy:	(C) 0.7303	
+-------------------------------
+epoch 1, batch 5060
+train loss:	(C) 0.5829	train accuracy:	(C) 0.7532	
+test loss:	(C) 0.5911	test accuracy:	(C) 0.7245	
+-------------------------------
+epoch 1, batch 5080
+train loss:	(C) 0.5886	train accuracy:	(C) 0.7500	
+test loss:	(C) 0.5905	test accuracy:	(C) 0.7278	
+-------------------------------
+epoch 1, batch 5100
+train loss:	(C) 0.5857	train accuracy:	(C) 0.7440	
+test loss:	(C) 0.5908	test accuracy:	(C) 0.7250	
+-------------------------------
+epoch 1, batch 5120
+train loss:	(C) 0.5698	train accuracy:	(C) 0.7672	
+test loss:	(C) 0.5897	test accuracy:	(C) 0.7377	
+-------------------------------
+epoch 1, batch 5140
+train loss:	(C) 0.5794	train accuracy:	(C) 0.7503	
+test loss:	(C) 0.5924	test accuracy:	(C) 0.7210	
+-------------------------------
+epoch 1, batch 5160
+train loss:	(C) 0.5689	train accuracy:	(C) 0.7625	
+test loss:	(C) 0.5899	test accuracy:	(C) 0.7230	
+-------------------------------
+epoch 1, batch 5180
+train loss:	(C) 0.5668	train accuracy:	(C) 0.7650	
+test loss:	(C) 0.5875	test accuracy:	(C) 0.7352	
+-------------------------------
+epoch 1, batch 5200
+train loss:	(C) 0.5781	train accuracy:	(C) 0.7458	
+test loss:	(C) 0.5902	test accuracy:	(C) 0.7255	
+-------------------------------
+epoch 1, batch 5220
+train loss:	(C) 0.5999	train accuracy:	(C) 0.7103	
+test loss:	(C) 0.5891	test accuracy:	(C) 0.7310	
+-------------------------------
+epoch 1, batch 5240
+train loss:	(C) 0.5931	train accuracy:	(C) 0.7305	
+test loss:	(C) 0.5893	test accuracy:	(C) 0.7327	
+-------------------------------
+epoch 1, batch 5260
+train loss:	(C) 0.5932	train accuracy:	(C) 0.7252	
+test loss:	(C) 0.5935	test accuracy:	(C) 0.7262	
+-------------------------------
+epoch 1, batch 5280
+train loss:	(C) 0.5937	train accuracy:	(C) 0.7290	
+test loss:	(C) 0.5883	test accuracy:	(C) 0.7300	
+-------------------------------
+epoch 1, batch 5300
+train loss:	(C) 0.5910	train accuracy:	(C) 0.7320	
+test loss:	(C) 0.5931	test accuracy:	(C) 0.7305	
+-------------------------------
+epoch 1, batch 5320
+train loss:	(C) 0.5935	train accuracy:	(C) 0.7213	
+test loss:	(C) 0.5856	test accuracy:	(C) 0.7318	
+-------------------------------
+epoch 1, batch 5340
+train loss:	(C) 0.5967	train accuracy:	(C) 0.7162	
+test loss:	(C) 0.5852	test accuracy:	(C) 0.7412	
+-------------------------------
+epoch 1, batch 5360
+train loss:	(C) 0.5969	train accuracy:	(C) 0.7268	
+test loss:	(C) 0.5936	test accuracy:	(C) 0.7288	
+-------------------------------
+epoch 1, batch 5380
+train loss:	(C) 0.5929	train accuracy:	(C) 0.7300	
+test loss:	(C) 0.5856	test accuracy:	(C) 0.7365	
+-------------------------------
+epoch 1, batch 5400
+train loss:	(C) 0.6001	train accuracy:	(C) 0.7165	
+test loss:	(C) 0.5868	test accuracy:	(C) 0.7355	
+-------------------------------
+epoch 1, batch 5420
+train loss:	(C) 0.5872	train accuracy:	(C) 0.7412	
+test loss:	(C) 0.5843	test accuracy:	(C) 0.7457	
+-------------------------------
+epoch 1, batch 5440
+train loss:	(C) 0.5815	train accuracy:	(C) 0.7453	
+test loss:	(C) 0.5855	test accuracy:	(C) 0.7415	
+-------------------------------
+epoch 1, batch 5460
+train loss:	(C) 0.5784	train accuracy:	(C) 0.7460	
+test loss:	(C) 0.5869	test accuracy:	(C) 0.7325	
+-------------------------------
+epoch 1, batch 5480
+train loss:	(C) 0.5786	train accuracy:	(C) 0.7425	
+test loss:	(C) 0.5913	test accuracy:	(C) 0.7350	
+-------------------------------
+epoch 1, batch 5500
+train loss:	(C) 0.5833	train accuracy:	(C) 0.7380	
+test loss:	(C) 0.5891	test accuracy:	(C) 0.7250	
+-------------------------------
+epoch 1, batch 5520
+train loss:	(C) 0.5864	train accuracy:	(C) 0.7368	
+test loss:	(C) 0.5873	test accuracy:	(C) 0.7335	
+-------------------------------
+epoch 1, batch 5540
+train loss:	(C) 0.5950	train accuracy:	(C) 0.7187	
+test loss:	(C) 0.5911	test accuracy:	(C) 0.7250	
+-------------------------------
+epoch 1, batch 5560
+train loss:	(C) 0.5937	train accuracy:	(C) 0.7265	
+test loss:	(C) 0.5795	test accuracy:	(C) 0.7470	
+-------------------------------
+epoch 1, batch 5580
+train loss:	(C) 0.5916	train accuracy:	(C) 0.7245	
+test loss:	(C) 0.5802	test accuracy:	(C) 0.7472	
+-------------------------------
+epoch 1, batch 5600
+train loss:	(C) 0.5917	train accuracy:	(C) 0.7232	
+test loss:	(C) 0.5915	test accuracy:	(C) 0.7233	
+-------------------------------
+epoch 1, batch 5620
+train loss:	(C) 0.5955	train accuracy:	(C) 0.7278	
+test loss:	(C) 0.5922	test accuracy:	(C) 0.7232	
+-------------------------------
+epoch 1, batch 5640
+train loss:	(C) 0.5999	train accuracy:	(C) 0.7198	
+test loss:	(C) 0.5773	test accuracy:	(C) 0.7423	
+-------------------------------
+epoch 1, batch 5660
+train loss:	(C) 0.5942	train accuracy:	(C) 0.7342	
+test loss:	(C) 0.5889	test accuracy:	(C) 0.7295	
+-------------------------------
+epoch 1, batch 5680
+train loss:	(C) 0.5973	train accuracy:	(C) 0.7200	
+test loss:	(C) 0.5817	test accuracy:	(C) 0.7377	
+-------------------------------
+epoch 1, batch 5700
+train loss:	(C) 0.5934	train accuracy:	(C) 0.7302	
+test loss:	(C) 0.5860	test accuracy:	(C) 0.7375	
+-------------------------------
+epoch 1, batch 5720
+train loss:	(C) 0.5704	train accuracy:	(C) 0.7587	
+test loss:	(C) 0.5823	test accuracy:	(C) 0.7345	
+-------------------------------
+epoch 1, batch 5740
+train loss:	(C) 0.5687	train accuracy:	(C) 0.7612	
+test loss:	(C) 0.5873	test accuracy:	(C) 0.7305	
+-------------------------------
+epoch 1, batch 5760
+train loss:	(C) 0.5721	train accuracy:	(C) 0.7605	
+test loss:	(C) 0.5864	test accuracy:	(C) 0.7350	
+-------------------------------
+epoch 1, batch 5780
+train loss:	(C) 0.5649	train accuracy:	(C) 0.7682	
+test loss:	(C) 0.5838	test accuracy:	(C) 0.7335	
+-------------------------------
+epoch 1, batch 5800
+train loss:	(C) 0.5691	train accuracy:	(C) 0.7613	
+test loss:	(C) 0.5757	test accuracy:	(C) 0.7530	
+-------------------------------
+epoch 1, batch 5820
+train loss:	(C) 0.5928	train accuracy:	(C) 0.7222	
+test loss:	(C) 0.5875	test accuracy:	(C) 0.7325	
+-------------------------------
+epoch 1, batch 5840
+train loss:	(C) 0.5918	train accuracy:	(C) 0.7310	
+test loss:	(C) 0.5920	test accuracy:	(C) 0.7273	
+-------------------------------
+epoch 1, batch 5860
+train loss:	(C) 0.5946	train accuracy:	(C) 0.7180	
+test loss:	(C) 0.5848	test accuracy:	(C) 0.7377	
+-------------------------------
+epoch 1, batch 5880
+train loss:	(C) 0.5949	train accuracy:	(C) 0.7205	
+test loss:	(C) 0.5757	test accuracy:	(C) 0.7460	
+-------------------------------
+epoch 1, batch 5900
+train loss:	(C) 0.5957	train accuracy:	(C) 0.7208	
+test loss:	(C) 0.5800	test accuracy:	(C) 0.7457	
+-------------------------------
+epoch 1, batch 5920
+train loss:	(C) 0.5959	train accuracy:	(C) 0.7193	
+test loss:	(C) 0.5777	test accuracy:	(C) 0.7405	
+-------------------------------
+epoch 1, batch 5940
+train loss:	(C) 0.5975	train accuracy:	(C) 0.7175	
+test loss:	(C) 0.5794	test accuracy:	(C) 0.7458	
+-------------------------------
+epoch 1, batch 5960
+train loss:	(C) 0.5931	train accuracy:	(C) 0.7232	
+test loss:	(C) 0.5799	test accuracy:	(C) 0.7428	
+-------------------------------
+epoch 1, batch 5980
+train loss:	(C) 0.5914	train accuracy:	(C) 0.7273	
+test loss:	(C) 0.5886	test accuracy:	(C) 0.7310	
+-------------------------------
+epoch 1, batch 6000
+train loss:	(C) 0.5886	train accuracy:	(C) 0.7285	
+test loss:	(C) 0.5861	test accuracy:	(C) 0.7315	
+-------------------------------
+epoch 1, batch 6020
+train loss:	(C) 0.5635	train accuracy:	(C) 0.7735	
+test loss:	(C) 0.5849	test accuracy:	(C) 0.7318	
+-------------------------------
+epoch 1, batch 6040
+train loss:	(C) 0.5644	train accuracy:	(C) 0.7655	
+test loss:	(C) 0.5800	test accuracy:	(C) 0.7448	
+-------------------------------
+epoch 1, batch 6060
+train loss:	(C) 0.5634	train accuracy:	(C) 0.7650	
+test loss:	(C) 0.5819	test accuracy:	(C) 0.7297	
+-------------------------------
+epoch 1, batch 6080
+train loss:	(C) 0.5554	train accuracy:	(C) 0.7790	
+test loss:	(C) 0.5835	test accuracy:	(C) 0.7408	
+-------------------------------
+epoch 1, batch 6100
+train loss:	(C) 0.5526	train accuracy:	(C) 0.7815	
+test loss:	(C) 0.5783	test accuracy:	(C) 0.7447	
+-------------------------------
+epoch 1, batch 6120
+train loss:	(C) 0.5780	train accuracy:	(C) 0.7402	
+test loss:	(C) 0.5823	test accuracy:	(C) 0.7295	
+-------------------------------
+epoch 1, batch 6140
+train loss:	(C) 0.5800	train accuracy:	(C) 0.7462	
+test loss:	(C) 0.5823	test accuracy:	(C) 0.7342	
+-------------------------------
+epoch 1, batch 6160
+train loss:	(C) 0.5773	train accuracy:	(C) 0.7475	
+test loss:	(C) 0.5809	test accuracy:	(C) 0.7408	
+-------------------------------
+epoch 1, batch 6180
+train loss:	(C) 0.5802	train accuracy:	(C) 0.7415	
+test loss:	(C) 0.5802	test accuracy:	(C) 0.7392	
+-------------------------------
+epoch 1, batch 6200
+train loss:	(C) 0.5738	train accuracy:	(C) 0.7392	
+test loss:	(C) 0.5846	test accuracy:	(C) 0.7380	
+-------------------------------
+epoch 1, batch 6220
+train loss:	(C) 0.5628	train accuracy:	(C) 0.7568	
+test loss:	(C) 0.5796	test accuracy:	(C) 0.7377	
+-------------------------------
+epoch 1, batch 6240
+train loss:	(C) 0.5631	train accuracy:	(C) 0.7600	
+test loss:	(C) 0.5776	test accuracy:	(C) 0.7412	
+-------------------------------
+epoch 1, batch 6260
+train loss:	(C) 0.5638	train accuracy:	(C) 0.7628	
+test loss:	(C) 0.5760	test accuracy:	(C) 0.7370	
+-------------------------------
+epoch 1, batch 6280
+train loss:	(C) 0.5591	train accuracy:	(C) 0.7712	
+test loss:	(C) 0.5731	test accuracy:	(C) 0.7463	
+-------------------------------
+epoch 1, batch 6300
+train loss:	(C) 0.5616	train accuracy:	(C) 0.7605	
+test loss:	(C) 0.5772	test accuracy:	(C) 0.7405	
+-------------------------------
+epoch 1, batch 6320
+train loss:	(C) 0.5751	train accuracy:	(C) 0.7482	
+test loss:	(C) 0.5821	test accuracy:	(C) 0.7428	
+-------------------------------
+epoch 1, batch 6340
+train loss:	(C) 0.5733	train accuracy:	(C) 0.7485	
+test loss:	(C) 0.5696	test accuracy:	(C) 0.7555	
+-------------------------------
+epoch 1, batch 6360
+train loss:	(C) 0.5752	train accuracy:	(C) 0.7348	
+test loss:	(C) 0.5784	test accuracy:	(C) 0.7455	
+-------------------------------
+epoch 1, batch 6380
+train loss:	(C) 0.5772	train accuracy:	(C) 0.7472	
+test loss:	(C) 0.5740	test accuracy:	(C) 0.7445	
+-------------------------------
+epoch 1, batch 6400
+train loss:	(C) 0.5746	train accuracy:	(C) 0.7562	
+test loss:	(C) 0.5711	test accuracy:	(C) 0.7477	
+-------------------------------
+epoch 1, batch 6420
+train loss:	(C) 0.5599	train accuracy:	(C) 0.7613	
+test loss:	(C) 0.5768	test accuracy:	(C) 0.7373	
+-------------------------------
+epoch 1, batch 6440
+train loss:	(C) 0.5756	train accuracy:	(C) 0.7470	
+test loss:	(C) 0.5753	test accuracy:	(C) 0.7423	
+-------------------------------
+epoch 1, batch 6460
+train loss:	(C) 0.5661	train accuracy:	(C) 0.7528	
+test loss:	(C) 0.5777	test accuracy:	(C) 0.7385	
+-------------------------------
+epoch 1, batch 6480
+train loss:	(C) 0.5671	train accuracy:	(C) 0.7535	
+test loss:	(C) 0.5748	test accuracy:	(C) 0.7390	
+-------------------------------
+epoch 1, batch 6500
+train loss:	(C) 0.5602	train accuracy:	(C) 0.7665	
+test loss:	(C) 0.5825	test accuracy:	(C) 0.7330	
+-------------------------------
+epoch 1, batch 6520
+train loss:	(C) 0.5701	train accuracy:	(C) 0.7530	
+test loss:	(C) 0.5781	test accuracy:	(C) 0.7378	
+-------------------------------
+epoch 1, batch 6540
+train loss:	(C) 0.5806	train accuracy:	(C) 0.7380	
+test loss:	(C) 0.5705	test accuracy:	(C) 0.7505	
+-------------------------------
+epoch 1, batch 6560
+train loss:	(C) 0.5820	train accuracy:	(C) 0.7413	
+test loss:	(C) 0.5724	test accuracy:	(C) 0.7480	
+-------------------------------
+epoch 1, batch 6580
+train loss:	(C) 0.5829	train accuracy:	(C) 0.7290	
+test loss:	(C) 0.5729	test accuracy:	(C) 0.7378	
+-------------------------------
+epoch 1, batch 6600
+train loss:	(C) 0.5790	train accuracy:	(C) 0.7468	
+test loss:	(C) 0.5760	test accuracy:	(C) 0.7435	
+-------------------------------
+epoch 1, batch 6620
+train loss:	(C) 0.5834	train accuracy:	(C) 0.7308	
+test loss:	(C) 0.5746	test accuracy:	(C) 0.7468	
+-------------------------------
+epoch 1, batch 6640
+train loss:	(C) 0.5763	train accuracy:	(C) 0.7448	
+test loss:	(C) 0.5769	test accuracy:	(C) 0.7450	
+-------------------------------
+epoch 1, batch 6660
+train loss:	(C) 0.5769	train accuracy:	(C) 0.7470	
+test loss:	(C) 0.5702	test accuracy:	(C) 0.7475	
+-------------------------------
+epoch 1, batch 6680
+train loss:	(C) 0.5746	train accuracy:	(C) 0.7498	
+test loss:	(C) 0.5699	test accuracy:	(C) 0.7552	
+-------------------------------
+epoch 1, batch 6700
+train loss:	(C) 0.5783	train accuracy:	(C) 0.7430	
+test loss:	(C) 0.5687	test accuracy:	(C) 0.7522	
+-------------------------------
+epoch test loss:	(C) 0.5687	epoch test accuracy:	(C) 0.7522	
+-------------------------------
+Finished Training
+Performing Analysis
+test loss: (C) 0.5831; test accuracy: (C) 0.7339
+Application 67566228 resources: utime ~7627s, stime ~2583s, Rss ~24262500, inblocks ~51937185, outblocks ~56029
